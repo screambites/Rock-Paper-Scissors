@@ -1,4 +1,4 @@
-                                  🎮🎲🎮🎲🎮🎲🎮🎲🎮🎲🎮🎲🎮🎲🎮🎲🎮🎲
+🎮🎲🎮🎲🎮🎲🎮🎲🎮🎲🎮🎲🎮🎲🎮🎲🎮🎲
 
                                   
 A collection of simple games, starting with Rock,Paper,Scissors; to practice my developing with Python. 
